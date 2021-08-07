@@ -1,5 +1,5 @@
 import { Container } from "@material-ui/core";
-import { Navbar, Nav } from "react-bootstrap";
+import { Navbar } from "react-bootstrap";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "../index.css";
 const Navv = () => {
