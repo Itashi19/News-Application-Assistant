@@ -1,0 +1,30 @@
+/*#root,
+html 
+  body {
+  height: 100vh;
+}*/
+
+body {
+  margin: 0;
+
+  background-color: rgb(198, 242, 255) !important;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+.mt-2 {
+  padding: 20px;
+
+  margin-top: 40px !important;
+  font-size: 25px;
+  color: beige;
+  text-decoration-style: bold;
+}
+.linkColor {
+  color: black !important;
+}
